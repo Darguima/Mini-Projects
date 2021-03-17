@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react"
+import { StackScreenProps } from "@react-navigation/stack"
 import {Feather as Icon, FontAwesome as Icon2} from "@expo/vector-icons"
 import { useNavigation, useRoute } from "@react-navigation/native"
 import { View, Text, StyleSheet, Image, TouchableOpacity, Linking } from "react-native"
@@ -28,7 +29,9 @@ interface Data{
   }[]
 }
 
-const Detail = () => {
+const Detail:React.FC<StackScreenProps<any>> = (props) => {
+
+  const {point_id} = props.route.params
 
   const navigation = useNavigation()
   const route = useRoute()
@@ -78,7 +81,7 @@ const Detail = () => {
           <Image style={styles.pointImage} source={{uri: data.point.image_url}}/>
 
           <Text style={styles.pointName}>{data.point.name}</Text>
-          <Text style={styles.pointImage}>{
+          <Text style={styles.pointItems}>{
           
           data.items.map(item => item.title).join(", ")
 

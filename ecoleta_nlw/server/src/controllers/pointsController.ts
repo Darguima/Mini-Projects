@@ -58,9 +58,7 @@ class PointsController{
 
         const serializedPoint = {
             ...point,
-            //image_url: `http://localhost:3001/uploads/${point.image}`
-            //image_url: `http://192.168.1.59:3001/uploads/${point.image}`
-            image_url: `http://dsgdevbraga.ddns.net:3001//uploads/${point.image}`
+            image_url: `http://192.168.1.59:3001/uploads/${point.image}`
         }
 
         const items = await knex("items")
@@ -68,7 +66,7 @@ class PointsController{
             .where("point_items.point_id", id)
             .select("items.title")
 
-        return response.json({serializedPoint, items})
+        return response.json({point: serializedPoint, items})
     }
 
     async index(request: Request, response: Response){
@@ -88,9 +86,7 @@ class PointsController{
             const serializedPoints = points.map(point => {
                 return {
                     ...point,
-                    //image_url: `http://localhost:3001/uploads/${point.image}`
-                    //image_url: `http://192.168.1.59:3001/uploads/${point.image}`
-                    image_url: `http://dsgdevbraga.ddns.net:3001//uploads/${point.image}`
+                    image_url: `http://192.168.1.59:3001/uploads/${point.image}`
                 }
             })
 

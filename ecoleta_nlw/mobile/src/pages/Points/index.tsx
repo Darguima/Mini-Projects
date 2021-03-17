@@ -82,7 +82,17 @@ const Points = () => {
           return
         }
 
-        const location = await Location.getCurrentPositionAsync()
+        var location
+
+        try {
+          location = await Location.getCurrentPositionAsync()
+        } catch(err) {
+          try {
+            location = await Location.getLastKnownPositionAsync()
+          } catch(err) {
+            location = {coords: {latitude: 1, longitude: 1}}
+          }
+        }
 
         const { latitude, longitude } = location.coords
 
