@@ -1,8 +1,24 @@
-# Ecoleta
+<h1 align="center">
+	<a href="https://github.com/Darguima/Mini-Projects/tree/master/ecoleta_nlw">
+		<img src="./readme/EcoletaLogo.png">
+	</a>
+</h1>
 
-* It's a project created at Rocketseat's "New Level Week"
+Ecoleta was created during the [Rocketseat](https://rocketseat.com.br/) event `New Level Week #2`.
+Ecoleta is a platform for recycling companies to publicize their collection points and to let people know where to go when they want to recycle.
 
-## Set up the Server
+<p align="center">
+	<img src="./readme/Web_LandingPage.png" width="50%"/>
+	<img src="./readme/Web_SignUpPointPage.png" width="50%"/>
+</p>
+
+<p align="center">
+	<img src="./readme/Mobile_LandingPage.png" width="18%"/>
+	<img src="./readme/Mobile_PointsMap.png" width="18%"/>
+	<img src="./readme/Mobile_PointsDetail.png" width="18%"/>
+</p>
+
+## Setup the Server
 
 1. npm install
 
@@ -14,6 +30,6 @@
 
 5. npm run-script dev
 
-## Set up the Web and Mobile
+## Setup the Web and Mobile
 
 1. Correct the IP address on `${mobile or web}/src/services/api.tsx`

@@ -1,6 +1,21 @@
-# Calendrier
+<h1 align="center">
+	<a href="https://github.com/Darguima/Mini-Projects/tree/master/Calendrier">
+		<img src="./readme/CalendrierLogo150.png">
+	</a>
+</h1>
 
-## Set up the Server
+
+My first "big" project written in React.js and Node.js. A simple calendar where you can log in to your account (or better log in to any account) and create your events to be accessed anywhere.
+
+<p align="center">
+	<img src="./readme/LoginPage.png" width="35%"/>
+	<img src="./readme/LandingPage.png" width="35%"/>
+	<img src="./readme/MonthPage.png" width="35%"/>
+	<img src="./readme/CreateEventPopup.png" width="35%"/>
+	<img src="./readme/ManageEventsPage.png" width="35%"/>
+</p>
+
+## Setup the Server
 
 1. Create a MongoDB image on Docker
 
