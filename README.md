@@ -120,3 +120,15 @@ Discord Auto Messages is a simple python script that was created for a random re
 ![](./discord-auto-messages/readme/discord-auto-messages.png)
 ___
 
+___
+
+![](./Tic_Tac_Toe/assets/tic_tac_toe_logo.png)
+
+
+Tic Tac Toe is a project created to study Windows Forms, a subject at my High School. Is a simple Tic Tac Toe Game with a score counter.
+
+###### Technologies used: `C#` & `Windows Forms`
+
+![](./Tic_Tac_Toe/assets/appRunning.png)
+___
+
