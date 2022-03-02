@@ -17,38 +17,80 @@ At the moment this repository has projects that use:
 - React.js
 - React Native
 - Python
+- C# & Windows Forms
 
 ## Projects
 
+![](./WinFormQuiz/assets/win_form_quiz_logo.png)
 
-![](./markdown-editor/readme/MarkdownEditorLogo.png)
 
-The first project of this repository and my first React.js project published on Github (my second on React.js).
+Win Form Quiz is another project created to study Windows Forms, a subject at my High School. It's a simple question game that consumes data from an API.
+Download the game [here](https://github.com/Darguima/Mini-Projects/releases/tag/win_form_quiz_v1.0.0).
 
-A very simplistic Markdown editor, with a Preview option and shortcuts to the Markdown syntax.
+###### Technologies used: `C#` & `Windows Forms`
 
-###### Technologies used: `React.js`
+###### [Go to Project Repository  🖱️](https://github.com/Darguima/Win-Form-Quiz)
 
-<p align="center">
-	<img src="./markdown-editor/readme/writePage.jpg" width="60%"/>
-	<img src="./markdown-editor/readme/previewPage.jpg" width="60%"/>
-</p>
+![](./WinFormQuiz/assets/appRunning.png)
 
 ___
 
+![](./Tic_Tac_Toe/assets/tic_tac_toe_logo.png)
 
-![](./Calendrier/readme/CalendrierLogo150.png)
 
-My first "big" project written in React.js and Node.js. A simple calendar where you can log in to your account (or better log in to any account) and create your events to be accessed anywhere.
+Tic Tac Toe is a project created to study Windows Forms, a subject at my High School. Is a simple Tic Tac Toe Game with a score counter.
+Download the game [here](https://github.com/Darguima/Mini-Projects/releases/tag/tic_tac_toe_v1.0.0).
 
-###### Technologies used: `React.js` & `Node.js`
+###### Technologies used: `C#` & `Windows Forms`
+
+
+###### [Go to Project Repository  🖱️](https://github.com/Darguima/Tic-Tac-Toe)
+
+![](./Tic_Tac_Toe/assets/appRunning.png)
+
+___
+
+![](./discord-auto-messages/readme/DiscordAutoMessagesLogo.png)
+
+
+Discord Auto Messages is a simple python script that was created for a random reason on a Discord server. My friends and I started sending spam in the chat to get XP from the MEE6 bot. But I, who was not in the patience to be always there typing, decided to create a python script that would work for me. 
+
+###### Technologies used: `Python`
+
+###### [Go to Project Repository  🖱️](https://github.com/Darguima/discord-auto-messages)
+
+![](./discord-auto-messages/readme/discord-auto-messages.png)
+
+___
+
+![](./rocketpay/readme/RocketpayLogo.png)
+
+
+Rocketpay was created during the [Rocketseat](https://rocketseat.com.br/) event `New Level Week #4`.
+Rocketpay an API for a e-Bank. Create an account, deposit or withdraw and transfer money with your friends.
+
+###### Technologies used: `Elixir`
+
+![](./rocketpay/readme/rocketpay.png)
+
+___
+
+![](./ecoleta_nlw/readme/EcoletaLogo.png)
+
+Ecoleta was created during the [Rocketseat](https://rocketseat.com.br/) event `New Level Week #2`.
+Ecoleta is a platform for recycling companies to publicize their collection points and to let people know where to go when they want to recycle.
+
+###### Technologies used: `React.js` & `React Native` & `Node.js`
 
 <p align="center">
-	<img src="./Calendrier/readme/LoginPage.png" width="35%"/>
-	<img src="./Calendrier/readme/LandingPage.png" width="35%"/>
-	<img src="./Calendrier/readme/MonthPage.png" width="35%"/>
-	<img src="./Calendrier/readme/CreateEventPopup.png" width="35%"/>
-	<img src="./Calendrier/readme/ManageEventsPage.png" width="35%"/>
+	<img src="./ecoleta_nlw/readme/Web_LandingPage.png" width="50%"/>
+	<img src="./ecoleta_nlw/readme/Web_SignUpPointPage.png" width="50%"/>
+</p>
+
+<p align="center">
+	<img src="./ecoleta_nlw/readme/Mobile_LandingPage.png" width="18%"/>
+	<img src="./ecoleta_nlw/readme/Mobile_PointsMap.png" width="18%"/>
+	<img src="./ecoleta_nlw/readme/Mobile_PointsDetail.png" width="18%"/>
 </p>
 
 ___
@@ -76,71 +118,31 @@ Proffy is a platform to teachers and students communicate and sell/buy online sc
 
 ___
 
-![](./ecoleta_nlw/readme/EcoletaLogo.png)
+![](./Calendrier/readme/CalendrierLogo150.png)
 
+My first "big" project written in React.js and Node.js. A simple calendar where you can log in to your account (or better log in to any account) and create your events to be accessed anywhere.
 
-Ecoleta was created during the [Rocketseat](https://rocketseat.com.br/) event `New Level Week #2`.
-Ecoleta is a platform for recycling companies to publicize their collection points and to let people know where to go when they want to recycle.
-
-###### Technologies used: `React.js` & `React Native` & `Node.js`
+###### Technologies used: `React.js` & `Node.js`
 
 <p align="center">
-	<img src="./ecoleta_nlw/readme/Web_LandingPage.png" width="50%"/>
-	<img src="./ecoleta_nlw/readme/Web_SignUpPointPage.png" width="50%"/>
-</p>
-
-<p align="center">
-	<img src="./ecoleta_nlw/readme/Mobile_LandingPage.png" width="18%"/>
-	<img src="./ecoleta_nlw/readme/Mobile_PointsMap.png" width="18%"/>
-	<img src="./ecoleta_nlw/readme/Mobile_PointsDetail.png" width="18%"/>
+	<img src="./Calendrier/readme/LoginPage.png" width="35%"/>
+	<img src="./Calendrier/readme/LandingPage.png" width="35%"/>
+	<img src="./Calendrier/readme/MonthPage.png" width="35%"/>
+	<img src="./Calendrier/readme/CreateEventPopup.png" width="35%"/>
+	<img src="./Calendrier/readme/ManageEventsPage.png" width="35%"/>
 </p>
 
 ___
 
-![](./rocketpay/readme/RocketpayLogo.png)
+![](./markdown-editor/readme/MarkdownEditorLogo.png)
 
+The first project of this repository and my first React.js project published on Github (my second on React.js).
 
-Rocketpay was created during the [Rocketseat](https://rocketseat.com.br/) event `New Level Week #4`.
-Rocketpay an API for a e-Bank. Create an account, deposit or withdraw and transfer money with your friends.
+A very simplistic Markdown editor, with a Preview option and shortcuts to the Markdown syntax.
 
-###### Technologies used: `Elixir`
+###### Technologies used: `React.js`
 
-
-![](./rocketpay/readme/rocketpay.png)
-
-___
-
-![](./discord-auto-messages/readme/DiscordAutoMessagesLogo.png)
-
-
-Discord Auto Messages is a simple python script that was created for a random reason on a Discord server. My friends and I started sending spam in the chat to get XP from the MEE6 bot. But I, who was not in the patience to be always there typing, decided to create a python script that would work for me. 
-
-###### Technologies used: `Python`
-
-![](./discord-auto-messages/readme/discord-auto-messages.png)
-___
-
-
-![](./Tic_Tac_Toe/assets/tic_tac_toe_logo.png)
-
-
-Tic Tac Toe is a project created to study Windows Forms, a subject at my High School. Is a simple Tic Tac Toe Game with a score counter.
-Download the game [here](https://github.com/Darguima/Mini-Projects/releases/tag/tic_tac_toe_v1.0.0).
-
-###### Technologies used: `C#` & `Windows Forms`
-
-![](./Tic_Tac_Toe/assets/appRunning.png)
-___
-
-
-![](./WinFormQuiz/assets/win_form_quiz_logo.png)
-
-
-Win Form Quiz is another project created to study Windows Forms, a subject at my High School. It's a simple question game that consumes data from an API.
-Download the game [here](https://github.com/Darguima/Mini-Projects/releases/tag/win_form_quiz_v1.0.0).
-
-###### Technologies used: `C#` & `Windows Forms`
-
-![](./WinFormQuiz/assets/appRunning.png)
-___
-
+<p align="center">
+	<img src="./markdown-editor/readme/writePage.jpg" width="60%"/>
+	<img src="./markdown-editor/readme/previewPage.jpg" width="60%"/>
+</p>

@@ -6,4 +6,6 @@ Download the game [here](https://github.com/Darguima/Mini-Projects/releases/tag/
 
 ###### Technologies used: `C#` & `Windows Forms`
 
+###### [Go to Project Repository  🖱️](https://github.com/Darguima/Tic-Tac-Toe)
+
 ![](./assets/appRunning.png)
