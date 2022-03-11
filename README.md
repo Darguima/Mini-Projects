@@ -21,6 +21,27 @@ At the moment this repository has projects that use:
 
 ## Projects
 
+<img alt="Wordle" src="./Wordle_WinForms/assets/wordleLogo.png" width="350px">
+
+This game is the final project created to a subject at my High School. `Wordle Tuga` is a portuguese version of [`Wordle`](https://www.nytimes.com/games/wordle/index.html) game.
+
+Download the game [here](https://github.com/Darguima/Wordle-WinForms/releases/tag/v1.0.0).
+
+###### Technologies used: `C#` & `Windows Forms` & `Python`
+
+###### [Go to Project Repository  🖱️](https://github.com/Darguima/Wordle-WinForms)
+
+<p align="center">
+	<img src="./Wordle_WinForms/assets/LandingPage.jpg" width="150px"/>
+	<img src="./Wordle_WinForms/assets/TutorialPage.jpg" width="150px"/>
+	<img src="./Wordle_WinForms/assets/OptionsPage.jpg" width="150px"/>
+	<img src="./Wordle_WinForms/assets/GamePage.jpg" width="150px"/>
+	<img src="./Wordle_WinForms/assets/StatisticsPage.jpg" width="150px"/>
+	<img src="./Wordle_WinForms/assets/ScorePage.jpg" width="150px"/>
+</p>
+
+___
+
 ![](./WinFormQuiz/assets/win_form_quiz_logo.png)
 
 
