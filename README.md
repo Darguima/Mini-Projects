@@ -25,8 +25,6 @@ At the moment this repository has projects that use:
 
 This game is the final project created to a subject at my High School. `Wordle Tuga` is a portuguese version of [`Wordle`](https://www.nytimes.com/games/wordle/index.html) game.
 
-Download the game [here](https://github.com/Darguima/Wordle-WinForms/releases/tag/v1.0.0).
-
 ###### Technologies used: `C#` & `Windows Forms` & `Python`
 
 ###### [Go to Project Repository  🖱️](https://github.com/Darguima/Wordle-WinForms)
@@ -46,7 +44,6 @@ ___
 
 
 Win Form Quiz is another project created to study Windows Forms, a subject at my High School. It's a simple question game that consumes data from an API.
-Download the game [here](https://github.com/Darguima/Mini-Projects/releases/tag/win_form_quiz_v1.0.0).
 
 ###### Technologies used: `C#` & `Windows Forms`
 
@@ -60,7 +57,6 @@ ___
 
 
 Tic Tac Toe is a project created to study Windows Forms, a subject at my High School. Is a simple Tic Tac Toe Game with a score counter.
-Download the game [here](https://github.com/Darguima/Mini-Projects/releases/tag/tic_tac_toe_v1.0.0).
 
 ###### Technologies used: `C#` & `Windows Forms`
 
